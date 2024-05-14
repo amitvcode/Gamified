@@ -1,0 +1,89 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What type of animal was Harambe, who was shot after a child fell into it&#039;s enclosure at the Cincinnati Zoo?",
+      "correct_answer": "Gorilla",
+      "incorrect_answers": ["Tiger", "Panda", "Crocodile"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which sign of the zodiac is represented by the Crab?",
+      "correct_answer": "Cancer",
+      "incorrect_answers": ["Libra", "Virgo", "Sagittarius"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which company did Valve cooperate with in the creation of the Vive?",
+      "correct_answer": "HTC",
+      "incorrect_answers": ["Oculus", "Google", "Razer"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "When someone is inexperienced they are said to be what color?",
+      "correct_answer": "Green",
+      "incorrect_answers": ["Red", "Blue", "Yellow"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "How tall is the Burj Khalifa?",
+      "correct_answer": "2,722 ft",
+      "incorrect_answers": ["2,717 ft", "2,546 ft", "3,024 ft"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "How would one say goodbye in Spanish?",
+      "correct_answer": "Adi&oacute;s",
+      "incorrect_answers": [" Hola", "Au Revoir", "Salir"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?",
+      "correct_answer": "Swiss Air",
+      "incorrect_answers": ["Air France", "British Airways", "TWA"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+      "correct_answer": "Demolition",
+      "incorrect_answers": [
+        "The Dream Team",
+        "The Bushwhackers",
+        "The British Bulldogs"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "What geometric shape is generally used for stop signs?",
+      "correct_answer": "Octagon",
+      "incorrect_answers": ["Hexagon", "Circle", "Triangle"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which country, not including Japan, has the most people of japanese decent?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": ["China", "South Korea", "United States of America"]
+    }
+  ]
+}
